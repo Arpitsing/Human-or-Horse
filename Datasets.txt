@@ -1,0 +1,10 @@
+Dataset
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
+
+
+
+
+Validation Set
+
+http://www.electricalbasicprojects.com/zener-breakdown-vs-avalanche-breakdown/
